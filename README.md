@@ -1,9 +1,9 @@
 
-# Product Information
+# DevLab: MSPM0C1104SDSGR MCU Dev Board
 
-## Overview
+## Introduction
 
-This template provides a structured starting point for documenting hardware modules or products. It includes sections for product overview, features, typical use cases, resources, and documentation links. Customize each section to match your specific product details, ensuring clear and consistent information for users and developers.
+The MSPM0C1104SDSGR Devlab is a compact development board featuring the microcontroller ARM Cortex-M0+ MSPM0C1104SDSGR. This board is designed for developers and hobbyists to prototype and test applications with ease.
 
 <div align="center">
   <a href="#"><img src="https://img.shields.io/badge/version-1.0-blue.svg" alt="Version"></a>
@@ -18,41 +18,30 @@ This template provides a structured starting point for documenting hardware modu
   <p><em>MSPM0C1104SDSGR Devlab</em></p>
 </div>
 
-## Resources
-
-| Resource | Link |
-|:--------:|:----:|
-| FT24C32A Datasheet | [Link](../../docs/) |
-
-## Features
-
-- 32Kbit FT24C32A I2C EEPROM for dependable non-volatile memory storage
-- Standard I2C (2-wire) interface for straightforward system integration
-- Broad operating voltage: 1.8V to 5.5V for flexible power compatibility
-- Supports fast I2C communication up to 400 kHz
-
-## Typical Applications
-
-| Application              | Description                                         |
-|--------------------------|-----------------------------------------------------|
-| Data logging             | Store sensor data, logs, or event histories         |
-| Configuration retention  | Preserve device settings or calibration data        |
-| Embedded memory          | Add persistent storage to microcontroller projects  |
 
 
-## Getting Started
+## overview
 
-1. Connect the module to your system using the I2C interface.
-2. Refer to the documentation for integration with your development environment.
-3. Explore example projects in the `/software/examples` directory.
+| Feature               | Description                                         |
+|-----------------------|-----------------------------------------------------|
+| Microcontroller       | ARM Cortex-M0+ MSPM0C1104SDSGR                      |
+| Operating Voltage     | 1.8V to 3.6V                                        |
+| Flash Memory          | 16KB                                                |
+| RAM                   | 4KB                                                 |
+| Communication         | I2C, SPI, UART                                      |
+| GPIO Pins             | 8                                                 |
 
-## Documentation
+## Applications
 
-- [Schematic Diagram](hardware/schematic.pdf)
-- [Board Dimensions (DXF)](docs/dimensions.dxf)
-- [Pinout Diagram](docs/pinout.png)
-- [Firmware Examples](firmware/)
-- [Getting Started Guide](docs/getting_started.md)
+- Embedded Systems Development
+- IoT Prototyping
+- Educational Purposes
+- Sensor Interfacing
+- Home Automation Projects
+- Robotics Control Systems
+
+
+
 
 ## License
 
