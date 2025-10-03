@@ -19,8 +19,19 @@ The MSPM0C1104SDSGR Devlab is a compact development board featuring the microcon
 </div>
 
 
+<div align="center">
 
-## overview
+### Quick Setup
+
+
+[<img src="https://img.shields.io/badge/Product%20Wiki-blue?style=for-the-badge" alt="Product Wiki">](#)
+[<img src="https://img.shields.io/badge/Datasheet-green?style=for-the-badge" alt="Datasheet">](#)
+[<img src="https://img.shields.io/badge/Buy%20Now-orange?style=for-the-badge" alt="Buy Now">](#)
+[<img src="https://img.shields.io/badge/Getting%20Started-purple?style=for-the-badge" alt="Getting Started">](#)
+
+</div>
+
+## Overview
 
 | Feature               | Description                                         |
 |-----------------------|-----------------------------------------------------|
